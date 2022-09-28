@@ -4,12 +4,13 @@
 
 Skills and Experience:
 -Experience in open source CMS platforms (e.g. Wordpress, Joomla) 
-- PHP5 / MySQL capabilities 
+- PHP / MySQL capabilities 
 - Custom PHP website development including CMS
 - HTML5, CSS3, JavaScript, jQuery, jQuery UI, jQuery Mobile (including UI frameworks such as Boilerplate, Bootstrap) 
 - Adaptive/Responsive interface development 
 - Apache Web Server 
 - VCS (Git/Subversion)
+- Docker
 
 Also i have worked as an advisor with designers and developers to help them create clean and flexible designs.
 
